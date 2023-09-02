@@ -4,6 +4,10 @@
         border-bottom-right-radius: 30px;
         z-index: 2;
 }
+.nav-link img{
+        height: 100px;
+        width: 100px;
+}
 .navlist a{padding: 0px;
         font-size:large;
         display: inline;
